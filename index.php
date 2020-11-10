@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>ChartJs oa e</title>
+        <title>ChartJs-Modif</title>
 <!-------------------------------------------------------------------------------------------------	-->
         <link rel="stylesheet" type="text/css" href="Chart.min.css"/>
        
