@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>ChartJs-Modif-modif dev2</title>
+        <title>ChartJs-Modif-modif dev2-modif dev1</title>
 <!-------------------------------------------------------------------------------------------------	-->
         <link rel="stylesheet" type="text/css" href="Chart.min.css"/>
        
